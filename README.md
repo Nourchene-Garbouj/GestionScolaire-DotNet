@@ -119,7 +119,7 @@ Appuie sur `Ctrl + F5`
 
 | Login | Mot de passe | Rôle |
 |---|---|---|
-| `admin` | `admin123` | Admin |
+| `Nourchene` | `admin123` | Admin |
 | `prof` | `prof123` | Professeur |
 
 ---
@@ -154,4 +154,4 @@ DS .net/
 
 Développé dans le cadre du projet **.NET — Développement Desktop**
 
-**Nourchene Garbouj** — ESEN
+**Nourchene Garbouj** Data science and software development student
